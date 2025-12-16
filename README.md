@@ -5,8 +5,7 @@
   Turning caffeine into code ☕💻
 </p>
 
----
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=Web+Developer;Open+Source+Contributor;Quantum+Physics+Enthusiast)](https://git.io/typing-svg) 
 
 ### 🚀 About Me
 
@@ -47,15 +46,19 @@ I’m an AI & ML undergrad who enjoys building things for the web and then teari
 
 ### 🛠️ Projects (Work in Progress)
 
-Projects loading… stay tuned 👀
+* 🌐 **Portfolio Website** – HTML, CSS, JavaScript
+* ✅ **Todo App** – React + Local Storage
+* 🔌 **Basic REST API** – Node.js & Express
+
+More projects loading… stay tuned 👀
 
 ---
-        
+
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?user=shyamgore&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
@@ -66,7 +69,7 @@ Projects loading… stay tuned 👀
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/shyamgore"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 </p>
 
