@@ -46,31 +46,29 @@ I’m an AI & ML undergrad who enjoys building things for the web and then teari
 
 ### 🛠️ Projects (Work in Progress)
 
-* 🌐 **Portfolio Website** – HTML, CSS, JavaScript
-* ✅ **Todo App** – React + Local Storage
-* 🔌 **Basic REST API** – Node.js & Express
-
 More projects loading… stay tuned 👀
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 50 px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamgore&show_icons=true&theme=radical" width="400px" alt="Shyam's GitHub Stats">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgore&layout=compact&theme=radical" width="305px" alt="Shyam's Top Languages"> -->
+ <img src="https://leetcard.jacoblin.cool/shyamgore?theme=radical" width="400px" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgore&theme=radical" width="405px" /> -->
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+
+
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shyamgore"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/shyamgore345"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
