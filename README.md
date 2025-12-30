@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=Web+Developer;Open+Source+Contributor;Quantum+Physics+Enthusiast)](https://git.io/typing-svg) 
 
-<img src="D:\Venoms-_-tech\Developers_data\Random_practice\robot-3d-animation-fly-and-wave-hands-video-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="robot-3d-animation-fly-and-wave-hands-video-ezgif.com-video-to-gif-converter.gif" width="300">
 
 ### 🚀 About Me
 
