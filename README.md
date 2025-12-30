@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&size=30&pause=1000&width=435&lines=Web+Developer;Open+Source+Contributor;Quantum+Physics+Enthusiast)](https://git.io/typing-svg) 
 
+<img src="D:\Venoms-_-tech\Developers_data\Random_practice\robot-3d-animation-fly-and-wave-hands-video-ezgif.com-video-to-gif-converter.gif" width="300">
+
 ### 🚀 About Me
 
 I’m an AI & ML undergrad who enjoys building things for the web and then tearing them apart to understand *why* they work. I like clean logic, clean UI, and the kind of bugs that make you question life at 2 a.m.
