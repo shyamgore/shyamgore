@@ -1,28 +1,23 @@
 <p align="right">
     <h1>Hey 👋, I'm <a href="https://www.linkedin.com/in/shyamgore345">Shyam Gore</a></h1>
 </p>
-<p>
 
-<table width="100%">
-<tr>
-<td>
-<img src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif" width="150" />
+<p align="canter" top="20" hight="100">
+    
+<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyamgore&label=Profile%20Views&color=00AEEF&style=for-the-badge" width="100" hight="50"/>
-  <img src="https://img.shields.io/github/followers/shyamgore?style=for-the-badge&color=00AEEF" width="100" hight="50"/>
-  <img src="https://img.shields.io/badge/Focus-Grinding%20Tech-00AEEF?style=for-the-badge" width="110" hight="100"/>
-</p>
-</td>
-<td align="right">
-<p align="left">
-
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2500&pause=1000&center=false&vCenter=true&width=750&height=50&font=Great+Vibes&lines=+++++Knowledge+finite,+imagination+infinite.;++Aspiring+Tech+Enthusiast;+Certified+Web+Developer;)
+    
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&duration=2500&pause=1000&center=false&vCenter=true&width=750&height=50&font=Great+Vibes&lines=+++++Knowledge+finite,+imagination+infinite.;++Aspiring+Tech+Enthusiast;+Certified+Web+Developer;)
 </p>
 
-</td>
-</tr>
-</table>
+</p>
 
+<p align="center" max-width=100%><img src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif" width="40%" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyamgore&label=Profile%20Views&color=00AEEF&style=for-the-badge" width="150" hight="50"/>
+  <img src="https://img.shields.io/github/followers/shyamgore?style=for-the-badge&color=00AEEF" width="150" hight="50"/>
+  <img src="https://img.shields.io/badge/Focus-Grinding%20Tech-00AEEF?style=for-the-badge" width="150" hight="100"/>
+</p>
 
 ---
 ## 🧠 **Tech Playground**
