@@ -1,16 +1,17 @@
-<p align="right">
+<div align="center">
+  <p align="center">
     <h1>Hey 👋, I'm <a href="https://www.linkedin.com/in/shyamgore345">Shyam Gore</a></h1>
+    <h1>B.tech Student | Web Devoloper in Progress</h1>
 </p>
+</div>
 
-<p align="canter" top="20" hight="100">
-    
+<div align="center"hight=180>
+
 <br>
-<p align="center">
-    
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&duration=2500&pause=1000&center=false&vCenter=true&width=750&height=50&font=Great+Vibes&lines=+++++Knowledge+finite,+imagination+infinite.;++Aspiring+Tech+Enthusiast;+Certified+Web+Developer;)
-</p>
 
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&duration=2500&pause=1000&center=true&vCenter=false&width=650&height=90&font=Allura&lines=Knowledge+finite,+imagination+infinite.;++Aspiring+Tech+Enthusiast;+Certified+Web+Developer;)
+
+</div>
 
 <p align="center" max-width=100%><img src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif" width="40%" /></p>
 <p align="center">
@@ -20,6 +21,29 @@
 </p>
 
 ---
+
+## 👋 About Me
+
+I’m an **AI & ML undergrad** who loves building things for the web… and then tearing them apart to figure out *why* they work.
+
+I enjoy:
+🔥 Clean logic  
+🎨 Clean UI  
+🐛 And those 2 a.m. bugs that make you question reality  
+
+🌱 **Currently learning:** Full-stack Web Development  
+🤝 **Open to collaborating on:** Frontend & beginner-level backend projects  
+🧠 **Curious about:** AI, ML, and how the web really works under the hood  
+
+
+## 📚 Currently Learning
+
+- JavaScript (properly, not just vibes)
+- React fundamentals
+- Backend basics with Node.js & Express
+- Git & GitHub workflows
+
+
 ## 🧠 **Tech Playground**
 
 <div align="center">
@@ -99,23 +123,9 @@
 
 ---
 
-
-
----
-
-## ⚡ Quick Facts
-
-- 🚀 Exploring **AI, Automation & Intelligent Systems**
-- 🧠 Passionate about **learning + building cool stuff**
-- 🌐 Open to collabs
-- 📫 Reach me: **shyamgore345@gmail.com**
-- ☕ Fuel: caffeine + curiosity + music
-
----
-
 ## 📊 GitHub Analytics
 
-<<div align="center" >
+<div align="center" >
   <div>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shyamgore&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_color=00AEEF&title_color=ff6600&icon_color=00AEEF"/>
 </div>
@@ -140,6 +150,12 @@
 </picture>
 
 ---
+## 😄 Fun Stuff
+
+🎧 **Coding fuel:** music on loop  
+🕷️ **Bugs fear me** (eventually)  
+🧠 **Belief:** consistency beats talent  
+
 
 ## 📟 Connect with me
 
@@ -160,6 +176,12 @@
     <img style="margin: 0 10px;" src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
 </p>
+
+<div align="center">
+  <p>
+    <h1>🙏Thanks for stopping by!</h2>
+  </p>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
